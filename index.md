@@ -5,6 +5,8 @@
 
 ## Where does it push to??
 
+Ok cool, but does it still work?
+
 \tableofcontents <!-- you can use \toc as well -->
 
 This section is meant as a refresher if you're new to Franklin.
