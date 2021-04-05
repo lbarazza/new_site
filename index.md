@@ -1,7 +1,7 @@
 @def title = "Franklin Example"
 @def tags = ["syntax", "code"]
 
-# How to use Franklin test test
+# How to use Franklin test test 234t5674ewreq
 
 \tableofcontents <!-- you can use \toc as well -->
 
